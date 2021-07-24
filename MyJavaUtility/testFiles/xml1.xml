@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<machines>
+	<HSC350 serialNum = '192168' version = 'gray'>
+		<IP_ADDRESS>192.168.0.1</IP_ADDRESS>
+		<ARCHIVE_PATH>/AlibiMemory/Batch/Archive/</ARCHIVE_PATH>
+		<NEW_PATH>/AlibiMemory/Batch/New/</NEW_PATH>
+	</HSC350>
+	<HSC350 serialNum = '192200' version = 'gray'>
+		<IP_ADDRESS>192.168.0.200</IP_ADDRESS>
+		<ARCHIVE_PATH>/AlibiMemory/Batch/Archive/</ARCHIVE_PATH>
+		<NEW_PATH>/AlibiMemory/Batch/New/</NEW_PATH>
+	</HSC350>
+	<GINO>CIAO GINO</GINO>
+</machines>
